@@ -13,19 +13,14 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[MY ONE AND ONLY LOVE NIKHIL VERMA],
 
-Your personalized birthday message goes here.
+Happiest birthday MY BABY, MY KUCHII KUU.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+My shonii m hmesa tumhare sath hu or mujhe tum bhi hmesa mere sath chahiye.
+I love you from the bottom of my heart 💗💋.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— [CHIKUU]`;
 
   // Handle page transitions
   useEffect(() => {
